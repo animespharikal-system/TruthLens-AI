@@ -1,0 +1,14 @@
+# Frontend
+node_modules/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Dataset files
+*.csv
